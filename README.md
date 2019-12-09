@@ -8,6 +8,7 @@ Both ends of the music market therefore heavily rely on and benefit from intelli
 
 ## Exemplary Topics of Interest
 - Music and audio search and browsing interfaces
+- Searching and retrieving via voice input
 - Adaptive music user interfaces
 - Music learning interfaces
 - Music recommender systems
